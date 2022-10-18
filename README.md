@@ -3,3 +3,8 @@
 ```shell
   bash <(curl -s -L https://raw.githubusercontent.com/FxPool/SSLMIX/main/install_zh.sh)
 ```
+### windows 直接下载解压
+
+```shell
+https://github.com/FxPool/AESMIX/blob/main/aesmixwindows.zip
+```
